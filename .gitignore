@@ -1,0 +1,4 @@
+# Ingoring some files
+.env
+node_modules/
+package-lock.json
