@@ -14,6 +14,9 @@ npm => 8.19.4
 npm install
 ```
 
+### Configuration
+Rename the `.env.example` file to `.env` and configure your `https://getblock.io/` api_key
+
 ### Run
 ```
 node index.js
