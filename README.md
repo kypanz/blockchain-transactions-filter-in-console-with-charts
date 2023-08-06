@@ -5,8 +5,8 @@ this save the transactions `greater` tan `x` value in `memory`
 
 ### Tested on
 ```shell
-node => v16.20.1
-npm => 8.19.4
+node => v16.20.1, v19.3.0
+npm => 8.19.4, 9.7.2
 ```
 
 ### Installation
